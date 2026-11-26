@@ -1,0 +1,81 @@
+{
+  "creator": [
+    {
+      "@type": "Organization",
+      "identifier": "CViSB",
+      "name": "Center for Viral Systems Biology",
+      "url": "https://cvisb.org/",
+      "contactPoint": {
+        "contactType": "technical support",
+        "email": "info@cvisb.org",
+        "url": "https://cvisb.org/"
+      }
+    }
+  ],
+  "dateModified": "2026-11-25",
+  "description": "Systems Serology data of convalescent survivors of Lassa virus or Ebola infections, and their household contacts. Systems Serology aims to define the features of the humoral immune response against a given pathogen. Systems Serology analysis includes measurement of the levels antigen-specific antibodies within individual patients, measurement of antibody-mediated induction of innate immune cell effector functions, measurement of binding of antigen-specific antibodies to Fc-receptors, and measurement of neutralizing activity.",
+  "funding": [
+    {
+      "funder": {
+        "@type": "Organization",
+        "alternateName": [
+          "NIAID"
+        ],
+        "description": "Funding for the Center for Viral Systems Biology is provided by National Institute of Allergy & Infectious Diseases (National Institutes for Health) award U19AI135995",
+        "name": "National Institute of Allergy & Infectious Diseases",
+        "parentOrganization": "National Institutes for Health",
+        "url": "https://taggs.hhs.gov/Detail/AwardDetail?arg_AwardNum=U19AI135995&arg_ProgOfficeCode=104"
+      },
+      "identifier": "U19AI135995"
+    }
+  ],
+  "identifier": "systems-serology",
+  "includedInDataCatalog": [
+    "https://data.cvisb.org/"
+  ],
+  "keywords": [
+    "Systems Serology",
+    "Ebola",
+    "Ebola virus",
+    "EBOV",
+    "Lassa",
+    "Lassa virus",
+    "LASV",
+    "Serology"
+  ],
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "measurementCategory": "Systems Serology",
+  "measurementTechnique": [
+    "serology"
+  ],
+  "name": "Systems Serology Measurements of Ebola/Lassa Patients and Survivors",
+  "publisher": [
+    {
+      "@type": "Organization",
+      "identifier": "CViSB",
+      "name": "Center for Viral Systems Biology",
+      "url": "https://cvisb.org/",
+      "contactPoint": {
+        "contactType": "technical support",
+        "email": "info@cvisb.org",
+        "url": "https://cvisb.org/"
+      }
+    }
+  ],
+  "spatialCoverage": [
+    {
+      "identifier": "SL",
+      "name": "Sierra Leone",
+      "url": "https://www.iso.org/obp/ui/#iso:code:3166:SL"
+    }
+  ],
+  "variableMeasured": [
+    "ADNKA_CD107a",
+    "ADNKA_IFNg",
+    "ADNKA_MIP1b",
+    "ADCP",
+    "ADNP",
+    "ADCD"
+  ],
+  "version": 0.4
+}
